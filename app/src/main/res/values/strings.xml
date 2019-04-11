@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">T17_spinner in custom dialog</string>
+    <string name="show_me_alertdialog">show me alertdialog</string>
+    <string name="alert_title">spinner in custom dialog</string>
+
+    <string-array name="countries">
+        <item>Please select a value</item>
+        <item>Home</item>
+        <item>Work</item>
+        <item>Class</item>
+        <item>City</item>
+    </string-array>
+</resources>
